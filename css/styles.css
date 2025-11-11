@@ -1,7 +1,7 @@
 .inside-header, .site-info, .footer-widgets {
   color: #ffffff !important;
-  background-color: #758330 !important;
-  background-color: #6974d0 !important;
+    background-color: #758330 !important;
+    background-color: #2936b4 !important;
 }
 
 .sub-menu, .slideout-navigation {
@@ -37,11 +37,14 @@ body {
 
 .gb-element-ae84868d {  /* home page first section */
     background-color: #fff3e7 !important;
+    background-color: white !important;
 } 
 
 .gb-element-bcf4710f { /* home page second section */
-    background-color: #423362 !important;
-    background-color: #858e2f !important;
+        background-color: #423362 !important;
+
+        background-color: #858e2f !important;
+
     color: black;
 }
 
@@ -52,6 +55,7 @@ body {
 
 .gb-element-70589c9b { /* home page third section */
     background-color: #fff8ef !important;
+    background-color: white !important;
     color: black;
 }
 
@@ -74,7 +78,7 @@ body {
 
 .nav-image {
   height: 100%;
-  max-height: 85px; /* match your logo height */
+  max-height: 110px; /* match your logo height */
   width: auto;
   object-fit: contain;
 }
