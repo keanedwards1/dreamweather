@@ -94,11 +94,11 @@ body {
 .header-image {
   display: block;
   height: auto;
-  max-height: 85px;
+  max-height: 90px;
 }
 
 .site-header, .inside-header{
-    height: 20vh;
+    height: 24vh;
 }
 
 .nav-image, .header-image {
