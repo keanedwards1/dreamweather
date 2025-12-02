@@ -1,3 +1,10 @@
+/* NUCLEAR OVERRIDE LAYER (forces ALL custom styles to win) */
+@layer reset, base, theme, overrides;
+
+/* Everything below this point is in the overrides layer */
+@layer overrides {
+
+
 .inside-header, .site-info, .footer-widgets {
   color: #ffffff !important;
     background-color: #758330 !important;
@@ -236,3 +243,4 @@ body {
     background-color: #fcfbfb !important;
     color: #1e1111 !important;
 }*/
+}
